@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BarefootCalculator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/BarefootCalculator/static/js/main.4cfc97e9.chunk.js",
-    "main.js.map": "/BarefootCalculator/static/js/main.4cfc97e9.chunk.js.map",
-    "runtime-main.js": "/BarefootCalculator/static/js/runtime-main.9e0d3923.js",
-    "runtime-main.js.map": "/BarefootCalculator/static/js/runtime-main.9e0d3923.js.map",
-    "static/js/2.c7cf7c91.chunk.js": "/BarefootCalculator/static/js/2.c7cf7c91.chunk.js",
-    "static/js/2.c7cf7c91.chunk.js.map": "/BarefootCalculator/static/js/2.c7cf7c91.chunk.js.map",
-    "index.html": "/BarefootCalculator/index.html",
-    "precache-manifest.ffdf63b4e540c9170f79a8cda0e54d3b.js": "/BarefootCalculator/precache-manifest.ffdf63b4e540c9170f79a8cda0e54d3b.js",
-    "service-worker.js": "/BarefootCalculator/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/BarefootCalculator/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c7cf7c91.chunk.js.LICENSE.txt": "/BarefootCalculator/static/js/2.c7cf7c91.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/BarefootCalculator/static/media/logo.5d5d9eef.svg"
+    "main.css": "/barefoot-calculator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/barefoot-calculator/static/js/main.e9236252.chunk.js",
+    "main.js.map": "/barefoot-calculator/static/js/main.e9236252.chunk.js.map",
+    "runtime-main.js": "/barefoot-calculator/static/js/runtime-main.1be413a8.js",
+    "runtime-main.js.map": "/barefoot-calculator/static/js/runtime-main.1be413a8.js.map",
+    "static/js/2.c7cf7c91.chunk.js": "/barefoot-calculator/static/js/2.c7cf7c91.chunk.js",
+    "static/js/2.c7cf7c91.chunk.js.map": "/barefoot-calculator/static/js/2.c7cf7c91.chunk.js.map",
+    "index.html": "/barefoot-calculator/index.html",
+    "precache-manifest.648029226090745617edd2c37063ce37.js": "/barefoot-calculator/precache-manifest.648029226090745617edd2c37063ce37.js",
+    "service-worker.js": "/barefoot-calculator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/barefoot-calculator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c7cf7c91.chunk.js.LICENSE.txt": "/barefoot-calculator/static/js/2.c7cf7c91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/barefoot-calculator/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e0d3923.js",
+    "static/js/runtime-main.1be413a8.js",
     "static/js/2.c7cf7c91.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4cfc97e9.chunk.js"
+    "static/js/main.e9236252.chunk.js"
   ]
 }
