@@ -1,3 +1,8 @@
+#Barefoot Calculator
+A simple React/Go App to help me learn about deployment to GitHub Pages, deploying a simple API to Google Cloud and to keep my spending in check!
+
+
+##Extra Info
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
